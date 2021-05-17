@@ -1,0 +1,105 @@
+2021-05-17 19:16:29,892 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <PROD.CUSTOMEREMAIL>amrita@gmail.com</PROD.CUSTOMEREMAIL>
+            <PROD.SKU>SKU00003</PROD.SKU>
+            <PROD.PRODUCTID>5</PROD.PRODUCTID>
+            <PROD.QTY>5</PROD.QTY>
+            <PROD.PRICE>300</PROD.PRICE>
+            <PROD.PAYMENT>checkmo</PROD.PAYMENT>
+        </Row>
+        <Row rowNumber="2">
+            <PROD.CUSTOMEREMAIL>amrita21@gmail.com</PROD.CUSTOMEREMAIL>
+            <PROD.SKU>SKU00004</PROD.SKU>
+            <PROD.PRODUCTID>4</PROD.PRODUCTID>
+            <PROD.QTY>4</PROD.QTY>
+            <PROD.PRICE>350</PROD.PRICE>
+            <PROD.PAYMENT>checkmo</PROD.PAYMENT>
+        </Row>
+        <Row rowNumber="3">
+            <PROD.CUSTOMEREMAIL>amrita31@gmail.com</PROD.CUSTOMEREMAIL>
+            <PROD.SKU>SKU00005</PROD.SKU>
+            <PROD.PRODUCTID>6</PROD.PRODUCTID>
+            <PROD.QTY>7</PROD.QTY>
+            <PROD.PRICE>450</PROD.PRICE>
+            <PROD.PAYMENT>checkmo</PROD.PAYMENT>
+        </Row>
+        <Row rowNumber="4">
+            <PROD.CUSTOMEREMAIL>asni@gmail.com</PROD.CUSTOMEREMAIL>
+            <PROD.SKU>SKU0009</PROD.SKU>
+            <PROD.PRODUCTID>6</PROD.PRODUCTID>
+            <PROD.QTY>5</PROD.QTY>
+            <PROD.PRICE>500</PROD.PRICE>
+            <PROD.PAYMENT>checkmo</PROD.PAYMENT>
+        </Row>
+        <Row rowNumber="5">
+            <PROD.CUSTOMEREMAIL>sand@yaoo.com</PROD.CUSTOMEREMAIL>
+            <PROD.SKU>SKU00010</PROD.SKU>
+            <PROD.PRODUCTID>8</PROD.PRODUCTID>
+            <PROD.QTY>7</PROD.QTY>
+            <PROD.PRICE>5</PROD.PRICE>
+            <PROD.PAYMENT>checkmo</PROD.PAYMENT>
+        </Row>
+        <Row rowNumber="6">
+            <PROD.CUSTOMEREMAIL>sand@yaoo.com</PROD.CUSTOMEREMAIL>
+            <PROD.SKU>SKU00010</PROD.SKU>
+            <PROD.PRODUCTID>8</PROD.PRODUCTID>
+            <PROD.QTY>7</PROD.QTY>
+            <PROD.PRICE>5</PROD.PRICE>
+            <PROD.PAYMENT>checkmo</PROD.PAYMENT>
+        </Row>
+        <Row rowNumber="7">
+            <PROD.CUSTOMEREMAIL>nimmo@gmail.com</PROD.CUSTOMEREMAIL>
+            <PROD.SKU>SKU00044</PROD.SKU>
+            <PROD.PRODUCTID>4</PROD.PRODUCTID>
+            <PROD.QTY>4</PROD.QTY>
+            <PROD.PRICE>350</PROD.PRICE>
+            <PROD.PAYMENT>checkmo</PROD.PAYMENT>
+        </Row>
+    </ResultSet>
+</Results>
+
+2021-05-17 19:16:30,208 INFO  [log] 7
+2021-05-17 19:16:30,217 INFO  [log] 7
+2021-05-17 19:16:30,257 INFO  [log] amrita@gmail.com
+2021-05-17 19:16:30,257 INFO  [log] SKU00003
+2021-05-17 19:16:30,260 INFO  [log] 5
+2021-05-17 19:16:30,265 INFO  [log] 5
+2021-05-17 19:16:30,267 INFO  [log] 300
+2021-05-17 19:16:30,269 INFO  [log] checkmo
+2021-05-17 19:16:30,298 INFO  [log] amrita21@gmail.com
+2021-05-17 19:16:30,298 INFO  [log] SKU00004
+2021-05-17 19:16:30,301 INFO  [log] 4
+2021-05-17 19:16:30,306 INFO  [log] 4
+2021-05-17 19:16:30,308 INFO  [log] 350
+2021-05-17 19:16:30,308 INFO  [log] checkmo
+2021-05-17 19:16:30,314 INFO  [log] amrita31@gmail.com
+2021-05-17 19:16:30,315 INFO  [log] SKU00005
+2021-05-17 19:16:30,315 INFO  [log] 6
+2021-05-17 19:16:30,316 INFO  [log] 7
+2021-05-17 19:16:30,324 INFO  [log] 450
+2021-05-17 19:16:30,325 INFO  [log] checkmo
+2021-05-17 19:16:30,336 INFO  [log] asni@gmail.com
+2021-05-17 19:16:30,336 INFO  [log] SKU0009
+2021-05-17 19:16:30,342 INFO  [log] 6
+2021-05-17 19:16:30,344 INFO  [log] 5
+2021-05-17 19:16:30,346 INFO  [log] 500
+2021-05-17 19:16:30,350 INFO  [log] checkmo
+2021-05-17 19:16:30,364 INFO  [log] sand@yaoo.com
+2021-05-17 19:16:30,364 INFO  [log] SKU00010
+2021-05-17 19:16:30,365 INFO  [log] 8
+2021-05-17 19:16:30,369 INFO  [log] 7
+2021-05-17 19:16:30,370 INFO  [log] 5
+2021-05-17 19:16:30,370 INFO  [log] checkmo
+2021-05-17 19:16:30,376 INFO  [log] sand@yaoo.com
+2021-05-17 19:16:30,376 INFO  [log] SKU00010
+2021-05-17 19:16:30,376 INFO  [log] 8
+2021-05-17 19:16:30,377 INFO  [log] 7
+2021-05-17 19:16:30,380 INFO  [log] 5
+2021-05-17 19:16:30,385 INFO  [log] checkmo
+2021-05-17 19:16:30,391 INFO  [log] nimmo@gmail.com
+2021-05-17 19:16:30,391 INFO  [log] SKU00044
+2021-05-17 19:16:30,391 INFO  [log] 4
+2021-05-17 19:16:30,392 INFO  [log] 4
+2021-05-17 19:16:30,392 INFO  [log] 350
+2021-05-17 19:16:30,393 INFO  [log] checkmo
